@@ -4,6 +4,10 @@ Generate Obsidian notes for every location on the Sword Coast from the [AideDD i
 
 **License:** [GNU General Public License v3.0](LICENSE). This project is not affiliated with AideDD or Obsidian.
 
+### Completed version (no setup required)
+
+**[Locations.rar](Locations.rar)** is the completed version: all Sword Coast location notes pre-generated. Extract the archive into your Obsidian vault (e.g. so the `Locations` folder and the quadrant index notes appear in your vault root). No Python or JSON export needed.
+
 ---
 
 ## Prerequisites
