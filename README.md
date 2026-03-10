@@ -16,7 +16,7 @@ Generate Obsidian notes for every location on the Sword Coast from the [AideDD i
 
 1. **Clone this repo**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/obsidian-sword-coast-locations.git
+   git clone https://github.com/rcmrocks/obsidian-sword-coast-locations.git
    cd obsidian-sword-coast-locations
    ```
 
