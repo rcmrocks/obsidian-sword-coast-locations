@@ -1,0 +1,8 @@
+{
+  "vault_path": "/path/to/your/Obsidian Vault",
+  "json_path": "/path/to/sword_coast_locations.json",
+  "overwrite_existing": false,
+  "include_descriptions": true,
+  "generate_indices": true,
+  "update_wiki_links": true
+}
